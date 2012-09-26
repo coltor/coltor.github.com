@@ -1,4 +1,4 @@
-# standard jekyll configuration
+ï»¿# standard jekyll configuration
 
 permalink: date
 pygments: true
@@ -12,7 +12,7 @@ plugins: ./_plugins
 # configuration required for some pages
 
 domain: robinh00d.cn
-title: robinh00dµÄÍøÂçÈÕÖ¾
+title: robinh00dçš„ç½‘ç»œæ—¥å¿—
 author: robinh00d
 email: robinh00d@sina.com
 
