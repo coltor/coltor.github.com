@@ -11,10 +11,10 @@ plugins: ./_plugins
 
 # configuration required for some pages
 
-domain: litao.me
-title: Litao.Me
-author: EaHydra
-email: xxeaglenet@gmail.com
+domain: robinh00d.cn
+title: robinh00dµÄÍøÂçÈÕÖ¾
+author: robinh00d
+email: robinh00d@sina.com
 
 # configuration for ehancements, uncomment to enable
 
@@ -25,7 +25,7 @@ email: xxeaglenet@gmail.com
 #   account: UA-XXXXX-X
 
 github:
-   username: eahydra
+   username: kernelhack
 
 disqus:
-   id: eahydra
+   id: kernelhack
